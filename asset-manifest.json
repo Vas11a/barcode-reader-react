@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tes-qr-reader/static/css/main.c7ec3132.css",
-    "main.js": "/tes-qr-reader/static/js/main.0a60d88a.js",
+    "main.js": "/tes-qr-reader/static/js/main.f6df72a9.js",
     "index.html": "/tes-qr-reader/index.html",
     "main.c7ec3132.css.map": "/tes-qr-reader/static/css/main.c7ec3132.css.map",
-    "main.0a60d88a.js.map": "/tes-qr-reader/static/js/main.0a60d88a.js.map"
+    "main.f6df72a9.js.map": "/tes-qr-reader/static/js/main.f6df72a9.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.0a60d88a.js"
+    "static/js/main.f6df72a9.js"
   ]
 }
